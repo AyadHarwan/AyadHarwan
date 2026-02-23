@@ -1,83 +1,124 @@
 <h1 align="center">Ayad Abdullah Harwan</h1>
-<h3 align="center">Software Development Student | Future Web Developer</h3>
+<h3 align="center">Software Development Student</h3>
 
 <p align="center">
   <a href="mailto:mythayad@gmail.com">Email</a> •
   <a href="#">LinkedIn</a> •
-  Netherlands
+  Nederland
 </p>
 
 ---
 
-## 👨‍💻 Profile
+## Profiel
 
-Motivated Software Development student with an international background, currently based in the Netherlands.  
-Focused on building modern web applications and continuously improving technical and problem-solving skills.  
-Actively seeking an internship to gain hands-on experience and contribute to real-world development projects.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,symfony,mysql,linux" />
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+Gemotiveerde Software Development student met een internationale achtergrond, momenteel woonachtig in Nederland.  
+Gericht op het ontwikkelen van moderne webapplicaties en het continu verbeteren van technische en probleemoplossende vaardigheden.  
+Actief op zoek naar een stage om praktijkervaring op te doen en bij te dragen aan echte projecten binnen een professioneel team.
 
 ---
 
-## 💼 Experience
+## Vaardigheden
 
-**Albert Heijn — Employee**  
-*2022 – 2023*  
-- Demonstrated reliability and strong work ethic  
-- Developed communication and customer service skills  
-- Worked effectively within a team environment  
+### Programmeertalen
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- Java  
 
-**Flink — Shift Leader**  
-*2024 – 2025*  
-- Led team operations and ensured smooth workflow  
-- Managed planning and team coordination  
-- Solved problems in fast-paced situations  
+### Frameworks en Technologieën
+- Next.js  
+- Symfony  
+- MySQL  
+- Linux (basis)  
 
----
-
-## 🎓 Education
-
-**IMAS International School – Kuala Lumpur**  
-*2009 – 2021*  
-
-International academic background. Currently continuing studies in Software Development in the Netherlands.
+### Tools
+- Git  
+- GitHub  
+- Visual Studio Code  
 
 ---
 
-## 🌍 Languages
+## Werkervaring
 
-- Dutch  
-- English  
+Albert Heijn — Medewerker  
+2022 – 2023  
+- Betrouwbaar en altijd op tijd  
+- Sterke communicatieve vaardigheden  
+- Klantgericht en sociaal  
+
+Flink — Shift Leader  
+2024 – 2025  
+- Aansturen van het team tijdens shifts  
+- Verantwoordelijk voor planning en overzicht  
+- Probleemoplossend vermogen in een dynamische omgeving  
 
 ---
 
-## 📊 GitHub Stats
+## Opleiding
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark" />
-</p>
+IMAS International School – Kuala Lumpur  
+2009 – 2021  
+
+Internationale achtergrond. Opgegroeid en opgeleid in Maleisië tot en met de middelbare school. Momenteel studerend in Nederland.
 
 ---
 
-## 🎯 Career Objective
+## Extra informatie
 
-To secure a Software Development internship where I can apply my knowledge, strengthen my technical skills, and contribute to meaningful projects within a professional team environment.
+- Rijbewijs: B (schakel)
+
+---
+
+## Projecten
+
+Budget Buddy App  
+Symfony, PHP, HTML, CSS, JavaScript, JSON  
+- Applicatie voor het beheren van inkomsten en uitgaven  
+- Backend ontwikkeld met Symfony  
+- Interactieve gebruikersinterface  
+
+Roadkapi Game  
+Java  
+- Zelfstandig ontwikkelde game  
+- Implementatie van spel-logica en beweging  
+
+Maze Game  
+Java  
+- Labyrintspel met navigatiesysteem  
+- Volledige spelmechanica geïmplementeerd  
+
+SDG Dashboard Website  
+Next.js, TypeScript, HTML, Tailwind CSS  
+- Interactieve website over duurzame ontwikkelingsdoelen  
+- Filters, sliders en dynamische dataweergave  
+- SEO-vriendelijke applicatie  
+
+Portfolio Website  
+HTML, CSS, Bootstrap, JavaScript  
+- Responsive portfolio met projecten en contactformulier  
+- Interactieve elementen en animaties  
+
+Higher-Lower Dice Game  
+HTML, CSS, JavaScript  
+- Dobbelspel met score systeem  
+- JavaScript voor logica en interactie  
+
+Tic Tac Toe (Boter, Kaas en Eieren)  
+HTML, CSS, JavaScript  
+- Klassiek spel met winconditie controle  
+- Interactief speelbord  
+
+---
+
+## Talen
+
+- Nederlands  
+- Engels  
+
+---
+
+## Stage
+
+Op zoek naar een stage in Software Development.  
+Periode: 7 september 2026 – 10 april 2027
