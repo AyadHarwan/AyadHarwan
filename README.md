@@ -78,12 +78,7 @@ Symfony, PHP, HTML, CSS, JavaScript, JSON
 Roadkapi Game  
 Java  
 - Zelfstandig ontwikkelde game  
-- Implementatie van spel-logica en beweging  
-
-Maze Game  
-Java  
-- Labyrintspel met navigatiesysteem  
-- Volledige spelmechanica geïmplementeerd  
+ 
 
 SDG Dashboard Website  
 Next.js, TypeScript, HTML, Tailwind CSS  
@@ -114,14 +109,6 @@ HTML, CSS, JavaScript
 - Engels  
 
 ---
-
-## 📊 GitHub Statistieken
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark" />
-</p>
 
 ---
 
