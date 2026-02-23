@@ -1,9 +1,9 @@
 <h1 align="center">Ayad Abdullah Harwan</h1>
-<h3 align="center">Software Development Student</h3>
+<h3 align="center">Software Development Student | Future Web Developer</h3>
 
 <p align="center">
   <a href="mailto:mythayad@gmail.com">📧 Email</a> •
-  <a href="#">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ayad-harwan-668672360">💼 LinkedIn</a> •
   🇳🇱 Nederland
 </p>
 
@@ -17,25 +17,22 @@ Actief op zoek naar een stage om praktijkervaring op te doen en bij te dragen aa
 
 ---
 
-## 🛠️ Vaardigheden
+## 🛠️ Tech Stack
 
 ### 💻 Programmeertalen
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- Java  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
+</p>
 
 ### ⚙️ Frameworks en Technologieën
-- Next.js  
-- Symfony  
-- MySQL  
-- Linux (basis)  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,symfony,mysql,linux" />
+</p>
 
 ### 🧰 Tools
-- Git  
-- GitHub  
-- Visual Studio Code  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -115,6 +112,16 @@ HTML, CSS, JavaScript
 
 - Nederlands  
 - Engels  
+
+---
+
+## 📊 GitHub Statistieken
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark" />
+</p>
 
 ---
 
