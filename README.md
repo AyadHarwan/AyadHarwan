@@ -2,14 +2,14 @@
 <h3 align="center">Software Development Student</h3>
 
 <p align="center">
-  <a href="mailto:mythayad@gmail.com">Email</a> •
-  <a href="#">LinkedIn</a> •
-  Nederland
+  <a href="mailto:mythayad@gmail.com">📧 Email</a> •
+  <a href="#">💼 LinkedIn</a> •
+  🇳🇱 Nederland
 </p>
 
 ---
 
-## Profiel
+## 👨‍💻 Profiel
 
 Gemotiveerde Software Development student met een internationale achtergrond, momenteel woonachtig in Nederland.  
 Gericht op het ontwikkelen van moderne webapplicaties en het continu verbeteren van technische en probleemoplossende vaardigheden.  
@@ -17,37 +17,37 @@ Actief op zoek naar een stage om praktijkervaring op te doen en bij te dragen aa
 
 ---
 
-## Vaardigheden
+## 🛠️ Vaardigheden
 
-### Programmeertalen
+### 💻 Programmeertalen
 - HTML  
 - CSS  
 - JavaScript  
 - PHP  
 - Java  
 
-### Frameworks en Technologieën
+### ⚙️ Frameworks en Technologieën
 - Next.js  
 - Symfony  
 - MySQL  
 - Linux (basis)  
 
-### Tools
+### 🧰 Tools
 - Git  
 - GitHub  
 - Visual Studio Code  
 
 ---
 
-## Werkervaring
+## 💼 Werkervaring
 
-Albert Heijn — Medewerker  
+**Albert Heijn — Medewerker**  
 2022 – 2023  
 - Betrouwbaar en altijd op tijd  
 - Sterke communicatieve vaardigheden  
 - Klantgericht en sociaal  
 
-Flink — Shift Leader  
+**Flink — Shift Leader**  
 2024 – 2025  
 - Aansturen van het team tijdens shifts  
 - Verantwoordelijk voor planning en overzicht  
@@ -55,22 +55,22 @@ Flink — Shift Leader
 
 ---
 
-## Opleiding
+## 🎓 Opleiding
 
-IMAS International School – Kuala Lumpur  
+**IMAS International School – Kuala Lumpur**  
 2009 – 2021  
 
 Internationale achtergrond. Opgegroeid en opgeleid in Maleisië tot en met de middelbare school. Momenteel studerend in Nederland.
 
 ---
 
-## Extra informatie
+## 🚗 Extra informatie
 
 - Rijbewijs: B (schakel)
 
 ---
 
-## Projecten
+## 📂 Projecten
 
 Budget Buddy App  
 Symfony, PHP, HTML, CSS, JavaScript, JSON  
@@ -101,7 +101,7 @@ HTML, CSS, Bootstrap, JavaScript
 
 Higher-Lower Dice Game  
 HTML, CSS, JavaScript  
-- Dobbelspel met score systeem  
+- Dobbelspel met scoresysteem  
 - JavaScript voor logica en interactie  
 
 Tic Tac Toe (Boter, Kaas en Eieren)  
@@ -111,14 +111,14 @@ HTML, CSS, JavaScript
 
 ---
 
-## Talen
+## 🌍 Talen
 
 - Nederlands  
 - Engels  
 
 ---
 
-## Stage
+## 🎯 Stage
 
 Op zoek naar een stage in Software Development.  
 Periode: 7 september 2026 – 10 april 2027
